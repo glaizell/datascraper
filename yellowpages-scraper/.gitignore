@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.env/
+.idea/
+.vscode/
+*.log
+output/
+*.sqlite
+*.db
+*.csv
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
